@@ -1,4 +1,4 @@
-# randomBallGenerator
+# Bounce Effect
 A throwback to classic Windows screensaver animations using HTML, CSS, and JavaScript!
 <br><br>
 
